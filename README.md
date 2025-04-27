@@ -1,6 +1,6 @@
 # vue-cloudflare
 
-这个模板可以帮助你开始使用 Vue 3 和 Vite 进行开发。
+这个项目使用 Vue 3 + Typescript + Element PLus + Vite 进行开发，部署在cloudflare。
 
 ## 推荐的 IDE 设置
 
